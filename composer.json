@@ -1,4 +1,18 @@
 {
+    "name": "stroker/doorbird",
+    "description": "Doorbird PHP client",
+    "keywords": [
+      "doorbird",
+      "client"
+    ],
+    "license": "BSD-3-Clause",
+    "authors": [
+      {
+        "name":  "Bram Gerritsen",
+        "email": "bgerritsen@gmail.com",
+        "role":  "lead"
+      }
+    ],
     "require": {
         "guzzlehttp/guzzle": "^6.3"
     },
